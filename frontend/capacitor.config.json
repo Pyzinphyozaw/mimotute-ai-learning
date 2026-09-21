@@ -1,0 +1,9 @@
+{
+  "appId": "com.mimotute.app",
+  "appName": "MimoTute",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}

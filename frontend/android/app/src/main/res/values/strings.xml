@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MimoTute</string>
+    <string name="title_activity_main">MimoTute</string>
+    <string name="package_name">com.mimotute.app</string>
+    <string name="custom_url_scheme">com.mimotute.app</string>
+</resources>
